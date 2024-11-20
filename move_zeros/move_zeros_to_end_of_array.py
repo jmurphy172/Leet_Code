@@ -45,12 +45,16 @@ for e in range(len(array)-1):
 
 #%% considerations for next attempt
 
-#  keep track of where the last zero was first found and start from there
+# keep track of where the last zero was first found and start from there
 
-#  Try to do the full task in one pass
+# Try to do the full task in one pass
 
-#  study the two pointer technique more
+# study the two pointer technique more
 
 # time complexity O(n**2)-->O(n)
+
+# currently it will traverse the list a set amount of times.
+
+# Find a way to stop once all the zeros have been moved.
 
 
